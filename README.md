@@ -1,4 +1,4 @@
-#COMANDOS GITH BASH
+# COMANDOS GITH BASH
 
 ### git config --list
 - Lista configurações do GitBash
@@ -9,7 +9,7 @@
 ### git config --global user.email "seu e-mail"
 - Configura o e-mail
 
-#COMANDOS GIT HUB
+# COMANDOS GIT HUB
 
 ### git status
 - Verifica a situação do repositório
