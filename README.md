@@ -26,3 +26,7 @@
 ### git pull
 - Faz download dos arquivos que estão na nuvem.
 
+# COMANDO NO TERMINAL 
+### git clone 
+- Clona o link, e abre a pasta na Área de Trabalho. (Link do repositório).
+
